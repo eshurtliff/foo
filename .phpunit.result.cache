@@ -1,0 +1,1 @@
+C:30:"PHPUnit\Runner\TestResultCache":197:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:2:{s:61:"FooFightersTest::testFoo_WithDefaultFooEntries_ReturnsNotNull";d:0.007;s:64:"FooFightersTest::testFooArray_WithDefaultEntries_ReturnsCountOf1";d:0;}}}
